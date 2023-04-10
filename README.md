@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrseert&label=Profile%20views&color=0e75b6&style=flat" alt="mrseert" /> </p>
 
-- 🌱 I’m currently learning **React, Data Structure and Algorithm**
+- 🌱 I’m currently learning **BACKEND Technologies**
 
 - 📫 How to reach me **sujeetrawat7099@gmail.com**
 
